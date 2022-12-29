@@ -12,18 +12,16 @@ Food Delivery App
 <img src="https://user-images.githubusercontent.com/76595188/209947251-387b5313-0221-49cb-9f97-228de8f2cf47.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577297-779e4e02-30e7-4c03-b787-c59659e3f14f.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577542-78678204-cc4f-4f80-af92-fcdb39e8ff8a.png" width="20%" />  
-<img src="https://user-images.githubusercontent.com/76595188/209577541-c3741fb3-1714-44ac-9448-2b7f48d31fbb.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577540-83f73a5e-805a-432b-98f2-fd7722ec44ce.png" width="20%" /> 
 <img src="https://user-images.githubusercontent.com/76595188/209577537-3d1dd7e7-3a04-453b-b956-97e8e76dc305.png" width="20%" /> 
 <img src="https://user-images.githubusercontent.com/76595188/209577535-d940e1ea-73d6-4620-8640-604f3fd8e991.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577534-730007d5-fb08-4651-9f6c-33fe027b1d25.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577521-59119e14-fa80-430c-8cee-2e20c6b79058.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577525-421cb933-3317-4bb7-a8b1-8067c291566e.png" width="20%" />  
-<img src="https://user-images.githubusercontent.com/76595188/209577528-3850381f-9aff-48d2-973e-88db8d1c63bf.png" width="20%" />  
+<img src="https://user-images.githubusercontent.com/76595188/209949786-81baed11-486b-4263-9638-29c2e91d7db7.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577531-9ea0a373-5a1f-4a5f-abaf-fd524a01d361.png" width="20%" />  
 <img src="https://user-images.githubusercontent.com/76595188/209577532-bc8d05f7-8e9b-4fa8-bfe2-7f6ee7752428.png" width="20%" />   
 <img src="https://user-images.githubusercontent.com/76595188/209949745-4a06ecc4-5f25-4e28-902c-e0ddfbf2e6db.png" width="20%" />  
-
 
 </p>
 
